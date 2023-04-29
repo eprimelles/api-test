@@ -1,4 +1,4 @@
-from models.orders import Order
+
 
 def process_orders(orders : list, 
                    criterion : str):
