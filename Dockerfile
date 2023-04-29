@@ -1,4 +1,4 @@
-FROM docker.uclv.cu/python
+FROM python:3.10
 
 # 
 WORKDIR /code
