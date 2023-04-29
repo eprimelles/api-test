@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from models.orders import Order
+from .models.orders import Order
 from solutions import process_orders
 from pydantic import ValidationError
 
